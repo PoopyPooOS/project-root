@@ -1,0 +1,30 @@
+[submodule "userspace/init"]
+	path = userspace/init
+	url = https://github.com/PoopyPooOS/init
+[submodule "userspace/ipc-macro"]
+	path = userspace/ipc-macro
+	url = https://github.com/PoopyPooOS/ipc-macro
+[submodule "userspace/serviced"]
+	path = userspace/serviced
+	url = https://github.com/PoopyPooOS/serviced
+[submodule "userspace/nologin"]
+	path = userspace/nologin
+	url = https://github.com/PoopyPooOS/nologin
+[submodule "userspace/userd"]
+	path = userspace/userd
+	url = https://github.com/PoopyPooOS/userd
+[submodule "userspace/coreutils"]
+	path = userspace/coreutils
+	url = https://github.com/PoopyPooOS/coreutils
+[submodule "userspace/shell"]
+	path = userspace/shell
+	url = https://github.com/PoopyPooOS/shell
+[submodule "userspace/login"]
+	path = userspace/login
+	url = https://github.com/PoopyPooOS/login
+[submodule "builder"]
+	path = builder
+	url = https://github.com/PoopyPooOS/builder
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/torvalds/linux
