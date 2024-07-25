@@ -25,6 +25,3 @@
 [submodule "builder"]
 	path = builder
 	url = https://github.com/PoopyPooOS/builder
-[submodule "kernel"]
-	path = kernel
-	url = https://github.com/torvalds/linux
